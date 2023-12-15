@@ -1,0 +1,113 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width>, initial-scale=1.0">
+    <title>Classic Book's List</title>
+
+     <link href="css/customStyles.css" rel="stylesheet">
+     <link rel="stylesheet" type="text/css" href="style.css">
+</head>
+<body>
+    
+
+    <!DOCTYPE html>
+    <html>
+    </head>
+    <body>
+        <br>
+        <br>
+        <head>
+            <title>Favorite Classic Books</title>
+        </head>
+        <body>
+            <nav>
+                <ul>
+                    <li><a href="#top">Top </a></li>
+                    <li><a href="index.html">Resume Page</a></li>
+                </ul>
+            </nav>
+            <header>
+                <h1>Favorite Classic Books</h1>
+            </header>
+            
+            <main>
+                <section>
+                    <h2>Introduction</h2>
+                    <p>Amidst the chaos of assignments and exams, reading becomes my refuge, a tranquil haven where I can lose myself in the narratives crafted by brilliant minds. The power of literature lies not just in its ability to entertain, but in its capacity to challenge, provoke thought, and foster empathy.</p>
+                    <p> The following are some of my favorite classic books that I highly recommend for you to read.</p>
+                </section>
+            
+                <section>
+                    <h2>List of Books and Why I love Them</h2>
+                    <ol>
+                        <li><em>Pride and Prejudice</em> by Jane Austen</li>
+                            <ul>
+                                <li>The romance</li>
+                                <li>It is funny</li>
+                                <li>The character's personalities</li>
+                            </ul>
+                        <li><em>To Kill a Mockingbird</em> by Harper Lee</li>
+                            <ul>
+                                <li>Many pragmatic conversations</li>
+                                <li>Atticus, a main charcater, practices what he preaches</li>
+                                <li>Still reveleant in today's society</li>
+                            </ul>
+                        <li><em>Wuthering Heights</em> by Emily Bronte</li>
+                            <ul>
+                                <li>Tragic love story</li>
+                                <li>Taught me about empathy</li>
+                                <li>Unique plot</li>
+                            </ul>
+                        <li><em>The Great Gatsby</em> by F. Scott Fitzgerald</li>
+                            <ul>
+                                <li>It embodies the American spirit</li>
+                                <li>The 1920's</li>
+                                <li>It is a great example of failure can breed success</li>
+                            </ul>
+                        <li><em>1984</em> by George Orwell</li>
+                            <ul>
+                                <li>Ahead of it's time </li>
+                                <li>Dystopian theme</li>
+                                <li>The back story of why it was written</li>
+                        </ul>
+                    </ol>
+                </section>
+            
+                <section>
+                    <h2>Book Images or Other Details</h2>
+                    <div class="book-image">
+                        <img src="https://janeaustens.house/wp-content/uploads/2020/03/PP-vol-I-title-page-Low-Res-P-Smith-1.jpg" alt="Pride and Prejudice by Jane Austen">
+                        <p><em>Pride and Prejudice</em> by Jane Austen</p>
+                    </div>
+                    <div class="book-image">
+                        <img src="https://m.media-amazon.com/images/M/MV5BNmVmYzcwNzMtMWM1NS00MWIyLThlMDEtYzUwZDgzODE1NmE2XkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_.jpg" alt="To Kill a Mockingbird by Harper Lee">
+                        <p><em>To Kill a Mockingbird</em> by Harper Lee</p>
+                    </div>
+                    <div class="book-video">
+                        <iframe width="560" height="315" src="https://www.youtube.com/embed/rM-zN4sqOAo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+                        <p><em> Wuthering Heights</em> by Emily Brontë</p>
+                    </div>
+                    <div class="book-image">
+                        <img src="https://upload.wikimedia.org/wikipedia/commons/7/7a/The_Great_Gatsby_Cover_1925_Retouched.jpg" alt="The Great Gatsby by F. Scott Fitzgerald">
+                        <p><em>The Great Gatsby</em> by F. Scott Fitzgerald</p>
+                    </div>
+                    <div class="book-image">
+                        <img src="https://i.pinimg.com/originals/d9/ab/f1/d9abf124018b2b3fc314fd091ea19abd.png" alt="1984 by George Orwell">
+                        <p><em>1984</em> by George Orwell</p>
+                    </div>
+                </section>
+            
+            
+                <br>
+                <br>
+                    <h1> Here's a Live Tableau of someone else's book recommendations from 2021!</h1>
+                    <div class='tableauPlaceholder' id='viz1682352777734' style='position: relative'><noscript><a href='#'><img alt=' ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;my&#47;myreading_16115100487510&#47;SUMMARY&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='myreading_16115100487510&#47;SUMMARY' /><param name='tabs' value='yes' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;my&#47;myreading_16115100487510&#47;SUMMARY&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en-US' /></object></div>                <script type='text/javascript'>                    var divElement = document.getElementById('viz1682352777734');                    var vizElement = divElement.getElementsByTagName('object')[0];                    if ( divElement.offsetWidth > 800 ) { vizElement.style.width='900px';vizElement.style.height='1000px';} else if ( divElement.offsetWidth > 500 ) { vizElement.style.width='150px';vizElement.style.height='115px';} else { vizElement.style.width='110px';vizElement.style.height='110px';}                     var scriptElement = document.createElement('script');                    scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    vizElement.parentNode.insertBefore(scriptElement, vizElement);                </script>
+
+            
+
+                    
+
+</body>
+</html>
